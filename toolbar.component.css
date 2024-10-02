@@ -1,0 +1,13 @@
+mat-toolbar {
+    color:aliceblue;
+    background-color:rgb(7, 7, 136);
+  
+    position: sticky;
+    top: 0;    
+    z-index: 100; /* Superpone el elemento frente a todos los demas */
+  }
+  
+  mat-icon {
+    color:rgb(255, 230, 0);
+  }
+  
